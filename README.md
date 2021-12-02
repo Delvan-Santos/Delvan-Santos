@@ -17,14 +17,14 @@ Automação de testes*
   ### Tecnologias usadas no dia a dia e Tecnologias em Formação.  
   <div style="display: inline_black"><br/>
  <img align="center" alt="Uipath" heigth="60" width=70 src="https://www.uipath.com/hs-fs/hubfs/logos/UiPath%20logo_blue@2x.png?height=232&name=UiPath%20logo_blue@2x.png" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://blog.bsource.com.br/assets/img/POSTMAN.png" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://w7.pngwing.com/pngs/660/87/png-transparent-microsoft-excel-microsoft-project-logo-microsoft-word-excel-microsoft-excel-logo-angle-text-microsoft-office-thumbnail.png" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://miro.medium.com/max/1400/1*ezeaO1L6xMh55p00csxPfw.png" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Asana_logo.png" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/4169/Bitbucket.jpg" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://lh3.googleusercontent.com/proxy/bUObo8HJdW1zIK5XHbl_dqVsiHpTxQ3ciLkUIuSQSR4gzm6mQvz46zeP3F7IW5l3cInIIANZrIyEW6DDDKyz6_Pcu2TPK3Ms8h-dsf8FT4vQaL_aWH9rHeeYTWsi" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://s2.glbimg.com/79pd1VgUsjdDVho5YURl1kEaT3Y=/0x0:300x155/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif" />
-<img align="center" alt="Uipath" heigth="60" width=70 src="https://miro.medium.com/max/889/1*-yauD1PxgsdiOJQMqnmu1w.jpeg" />
+<img align="center" alt="Postman" heigth="60" width=70 src="https://blog.bsource.com.br/assets/img/POSTMAN.png" />
+<img align="center" alt="Excel" heigth="60" width=70 src="https://w7.pngwing.com/pngs/660/87/png-transparent-microsoft-excel-microsoft-project-logo-microsoft-word-excel-microsoft-excel-logo-angle-text-microsoft-office-thumbnail.png" />
+<img align="center" alt="TestLink" heigth="60" width=70 src="https://miro.medium.com/max/1400/1*ezeaO1L6xMh55p00csxPfw.png" />
+<img align="center" alt="Asana" heigth="60" width=70 src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Asana_logo.png" />
+<img align="center" alt="Bitbucket" heigth="60" width=70 src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/4169/Bitbucket.jpg" />
+<img align="center" alt="Jira" heigth="60" width=70 src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/123/jira.png" />
+<img align="center" alt="MySQL" heigth="60" width=70 src="https://s2.glbimg.com/79pd1VgUsjdDVho5YURl1kEaT3Y=/0x0:300x155/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/y/M/W5GFw3Qh2YwD5XkhUM2Q/2012-04-17-mysql-logos.gif" />
+<img align="center" alt="Selenium" heigth="60" width=70 src="https://miro.medium.com/max/889/1*-yauD1PxgsdiOJQMqnmu1w.jpeg" />
 </div>
   
  
